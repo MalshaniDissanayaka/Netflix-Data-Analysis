@@ -32,20 +32,6 @@ This project analyzes Netflix Movies and TV Shows data using Python and Power BI
 * The United States contributes the highest amount of content.
 * Netflix content releases increased significantly after 2015.
 
-## Dashboard Preview
-
-### Overview Dashboard
-
-![Overview]("C:\Users\User\Desktop\Netflix-Data-Analysis\images\Screenshot.png")
-
-### Content Analysis
-
-![Content Analysis](images/dashboard_page2.png)
-
-### Global Trends
-
-![Global Trends](images/dashboard_page3.png)
-
 ## Files Included
 
 * `netflix_eda.ipynb` – Python analysis notebook
