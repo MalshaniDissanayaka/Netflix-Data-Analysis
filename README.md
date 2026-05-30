@@ -48,19 +48,7 @@ The goal is to understand content trends, genres, country distribution, and rele
 * Netflix content growth increased after 2015
 
 ---
-📊 Dashboard Preview
-Overview Page
 
-
-
-
-Content Analysis
-
-
-
-
-Global Trends
----
 
 ## 📁 Files in Repository
 
