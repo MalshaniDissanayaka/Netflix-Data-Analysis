@@ -60,5 +60,3 @@ The goal is to understand content trends, genres, country distribution, and rele
 
 ## 🚀 Author
 D. M. P. Malshani Dissanayaka
-
-Your Name
