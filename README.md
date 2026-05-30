@@ -36,7 +36,7 @@ This project analyzes Netflix Movies and TV Shows data using Python and Power BI
 
 ### Overview Dashboard
 
-![Overview](images/dashboard_page1.png)
+![Overview]("C:\Users\User\Desktop\Netflix-Data-Analysis\images\Screenshot.png")
 
 ### Content Analysis
 
