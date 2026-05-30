@@ -49,22 +49,6 @@ The goal is to understand content trends, genres, country distribution, and rele
 
 ---
 
-## 📊 Dashboard Preview
-
-### Overview Page
-
-![Overview](images/screenshot.png)
-
-### Content Analysis
-
-![Content Analysis](images/dashboard_2.png)
-
-### Global Trends
-
-![Trends](images/dashboard_3.png)
-
----
-
 ## 📁 Files in Repository
 
 * `notebook/netflix_eda.ipynb` → Data analysis in Python
@@ -75,5 +59,6 @@ The goal is to understand content trends, genres, country distribution, and rele
 ---
 
 ## 🚀 Author
+D. M. P. Malshani Dissanayaka
 
 Your Name
