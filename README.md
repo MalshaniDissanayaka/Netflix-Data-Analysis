@@ -1,43 +1,79 @@
-# Netflix-Data-Analysis
+# 🎬 Netflix Data Analysis Dashboard
 
-# Netflix Data Analysis Dashboard
+## 📌 Project Overview
 
-## Project Overview
+This project analyzes Netflix Movies and TV Shows dataset using Python and Power BI.
+The goal is to understand content trends, genres, country distribution, and release patterns.
 
-This project analyzes Netflix Movies and TV Shows data using Python and Power BI. The goal is to identify content trends, genre popularity, country-wise distribution, and release patterns through data analysis and interactive dashboards.
+---
 
-## Tools Used
+## 🛠 Tools Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+* Python (Pandas, NumPy)
+* Matplotlib, Seaborn
 * Google Colab
 * Power BI
 * GitHub
 
-## Project Workflow
+---
 
-1. Data Cleaning and Preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Data Visualization
-4. Interactive Dashboard Development
-5. Project Documentation
+## 📊 Project Workflow
 
-## Key Insights
+### 1. Data Cleaning
 
-* Movies make up the majority of Netflix content.
-* Drama and International Movies are among the most common genres.
-* The United States contributes the highest amount of content.
-* Netflix content releases increased significantly after 2015.
+* Handled missing values
+* Removed duplicates
+* Created new features like genre and year added
 
-## Files Included
+### 2. Exploratory Data Analysis (EDA)
 
-* `netflix_eda.ipynb` – Python analysis notebook
-* `Netflix_Dashboard.pbix` – Power BI dashboard
-* `netflix_cleaned.csv` – Cleaned dataset
+* Movies vs TV Shows comparison
+* Top genres analysis
+* Country-wise content distribution
+* Year-wise content trend
 
-## Author
+### 3. Power BI Dashboard
+
+* Interactive visuals
+* Filters (Country, Year, Type)
+* Maps and trend charts
+
+---
+
+## 📈 Key Insights
+
+* Movies dominate Netflix content compared to TV shows
+* United States produces the highest number of titles
+* Drama and International Movies are top genres
+* Netflix content growth increased after 2015
+
+---
+
+## 📊 Dashboard Preview
+
+### Overview Page
+
+![Overview](images/screenshot.png)
+
+### Content Analysis
+
+![Content Analysis](images/dashboard_2.png)
+
+### Global Trends
+
+![Trends](images/dashboard_3.png)
+
+---
+
+## 📁 Files in Repository
+
+* `notebook/netflix_eda.ipynb` → Data analysis in Python
+* `powerbi/Netflix_Dashboard.pbix` → Power BI dashboard
+* `data/netflix_cleaned.csv` → Clean dataset
+* `images/` → Dashboard screenshots
+
+---
+
+## 🚀 Author
 
 Your Name
